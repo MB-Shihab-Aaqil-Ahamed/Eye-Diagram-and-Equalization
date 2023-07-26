@@ -1,6 +1,6 @@
 # Eye-Diagram-and-Equalization
 
-# Summary of MATLAB Tasks:
+## Summary of MATLAB Tasks:
 
 In this MATLAB project, we have implemented and analyzed three tasks related to digital communication systems.
 
